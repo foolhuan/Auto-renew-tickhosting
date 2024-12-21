@@ -1,4 +1,4 @@
-Server ID: 4fbd51c7
-Renew status: Success
-Last renewal time: 2024-12-20 04:28:21
-New expiration time: 2024-12-28 02:20:16
+Server ID: Unknown
+Renew status: Failed
+Last renewal time: 2024-12-21 01:24:10
+Error: An error occurred: Failed to reach dashboard
